@@ -1,2 +1,2 @@
 # time_tracker
- Simple time tracking application
+ This is a very simple time tracking application. 
